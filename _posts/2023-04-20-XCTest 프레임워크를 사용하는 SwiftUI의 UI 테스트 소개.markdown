@@ -5,9 +5,7 @@ date:   2023-04-20 22:00:36 +0900
 categories: Swift
 ---
 
-<!-- # Introduction to UI Testing in SwiftUI Using XCTest Framework -->
-
-# **테스트에 대해서 알아보기**
+**테스트에 대해서 알아보기**
 
 ![image.png](/assets/image/20230420/image.png)
 
