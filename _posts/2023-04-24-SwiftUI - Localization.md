@@ -2,7 +2,7 @@
 layout: post
 title:  "SwiftUI - Localization "
 date:   2023-04-24 20:00:36 +0900
-categories: Swift
+categories: Swift SwiftUI
 ---
 **Localization이란?**
 

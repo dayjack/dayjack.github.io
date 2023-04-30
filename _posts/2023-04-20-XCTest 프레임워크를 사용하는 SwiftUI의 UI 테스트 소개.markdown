@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to UI Testing in SwiftUI Using XCTest Framework"
 date:   2023-04-20 22:00:36 +0900
-categories: Swift
+categories: Swift SwiftUI
 ---
 
 **테스트에 대해서 알아보기**
